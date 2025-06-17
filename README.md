@@ -38,4 +38,15 @@ This project was developed using the following technologies:
 
 ![Visualization Samples](/Data%20Visualization/Visualization%20Samples2.gif)
 
+### Interactive Visualizations:
+
+[![World Map](/Data%20Visualization/Country%20Visualizations/map_count.png)](https://htmlpreview.github.io/?https://github.com/GBortnik/Filmweb-Movie-Analysis/blob/main/Data%20Visualization/Country%20Visualizations/map_count.html)
+*Click the image or [here](https://htmlpreview.github.io/?https://github.com/GBortnik/Filmweb-Movie-Analysis/blob/main/Data%20Visualization/Country%20Visualizations/map_count.html) to open the interactive version.*
+
+[![Regions Donut Chart](/Data%20Visualization/Country%20Visualizations/regions_donut.png)](https://htmlpreview.github.io/?https://github.com/GBortnik/Filmweb-Movie-Analysis/blob/main/Data%20Visualization/Country%20Visualizations/region_donut.html)
+*Click the image or [here](https://htmlpreview.github.io/?https://github.com/GBortnik/Filmweb-Movie-Analysis/blob/main/Data%20Visualization/Country%20Visualizations/region_donut.html) to open the interactive version.*
+
+[![Genres Combinations Treemap](/Data%20Visualization/Genres%20Visualizations/genres_treemap.png)](https://htmlpreview.github.io/?https://github.com/GBortnik/Filmweb-Movie-Analysis/blob/main/Data%20Visualization/Genres%20Visualizations/genres_treemap.html)
+*Click the image or [here](https://htmlpreview.github.io/?https://github.com/GBortnik/Filmweb-Movie-Analysis/blob/main/Data%20Visualization/Genres%20Visualizations/genres_treemap.html) to open the interactive version.*
+
 ## Insights
