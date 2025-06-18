@@ -1,6 +1,6 @@
 # Filmweb Movie Analysis
 
-This project focuses on analyzing the top 500 movies ranked on [Filmweb](https://www.filmweb.pl/), a popular Polish film website. The dataset was independently created through web scraping, enabling a comprehensive exploration of movie attributes, genres, ratings, and production details. The analysis aims to uncover patterns and insights within this curated selection of films.
+This project focuses on analyzing the top 500 movies ranked on **[Filmweb](https://www.filmweb.pl/)**, a popular Polish film website. The dataset was independently created through web scraping, enabling a comprehensive exploration of movie attributes, genres, ratings, and production details. The analysis aims to uncover patterns and insights within this curated selection of films.
 
 🇵🇱 Polish version of the document can be found [here](/README-PL.md) / Polską wersję dokumentu można znaleźć [tutaj](/README-PL.md). 🇵🇱
 
@@ -38,6 +38,8 @@ This project was developed using the following technologies:
 
 ![Visualization Samples](/Data%20Visualization/Visualization%20Samples2.gif)
 
+*All visualizations are available directly in the notebooks or as PNG files in the [Data Visualization](/Data%20Visualization/) folder.*
+
 ### Interactive Visualizations:
 
 [![World Map](/Data%20Visualization/Country%20Visualizations/map_count.png)](https://htmlpreview.github.io/?https://github.com/GBortnik/Filmweb-Movie-Analysis/blob/main/Data%20Visualization/Country%20Visualizations/map_count.html)
@@ -50,3 +52,6 @@ This project was developed using the following technologies:
 *Click the image or [here](https://htmlpreview.github.io/?https://github.com/GBortnik/Filmweb-Movie-Analysis/blob/main/Data%20Visualization/Genres%20Visualizations/genres_treemap.html) to open the interactive version.*
 
 ## Insights
+
+The key insights and findings from this analysis are summarized in the presentation, available in both **[PowerPoint](/Filmweb%20Movie%20Analysis.pptx)** and **[PDF](/Filmweb%20Movie%20Analysis.pdf)** formats.
+Please refer to these files for a detailed overview of the results and visualizations.
